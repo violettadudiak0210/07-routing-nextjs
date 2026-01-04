@@ -26,9 +26,6 @@ const Header = () => {
             </Link>
           </li>
 
-          <li className={css.navigationItem}>
-            <TagsMenu />
-          </li>
         </ul>
       </nav>
     </header>
